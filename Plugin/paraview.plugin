@@ -1,0 +1,7 @@
+NAME
+  LAADFilter
+DESCRIPTION
+  LAAD filter for paraview
+REQUIRES_MODULES
+  VTK::CommonCore
+  VTK::FiltersCore
